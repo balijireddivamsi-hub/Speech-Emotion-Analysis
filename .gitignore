@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/
+
+# Dataset
+dataset/
+*.zip
+
+# Generated model artifacts
+artifacts/
+
+# Local editor files
+.vscode/
