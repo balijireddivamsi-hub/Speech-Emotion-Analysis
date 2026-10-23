@@ -96,7 +96,7 @@ Prerequisites
 
 Replace "YOUR-USERNAME" with your GitHub username.
 
-git clone https://github.com/YOUR-USERNAME/Speech-Emotion-Analysis.git
+git clone https://github.com/balijireddivamsi-hub/Speech-Emotion-Analysis.git
 
 2. Navigate to the project directory
 
